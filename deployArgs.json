@@ -1,0 +1,20 @@
+{
+  "extensions": [
+    {
+      "metadata": {
+        "name": "Tips",
+        "metadataURI": "ipfs://QmQLZrZxaq3cQwMuYRcccFR9WWNksFrNc54MCYDDphfPqD",
+        "implementation": "0x0000000000000000000000000000000000000000"
+      },
+      "functions": []
+    }
+  ],
+  "extensionDeployArgs": [
+    {
+      "name": "Tips",
+      "amount": 0,
+      "salt": "0x8052ff95887988472ee943b857dc2b71bcda07807b97b13413427139a77c2a9e",
+      "bytecode": "6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212201db1e2a39716a5e36c437baf6017f1b1ccfa741738c9c5871f2c36a9f777ded464736f6c63430008130033"
+    }
+  ]
+}
